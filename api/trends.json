@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T08:03:16.103069+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-10T12:50:34.253497+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -32,6 +32,17 @@
           "time_info": "[00时26分 ~ 08时03分]"
         },
         {
+          "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
+          "url": "https://news.ifeng.com/c/8udgruF8e0q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
           "url": "https://flash.jin10.com/detail/20260710023830037800",
           "source": "金十数据",
@@ -49,9 +60,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
@@ -60,9 +82,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时50分]"
         },
         {
           "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
@@ -100,17 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 04时45分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
@@ -152,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -251,7 +274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -295,7 +318,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -320,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "伊朗发射导弹打击美军4处军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "伊朗遭袭系误报，实为防空系统启动",
@@ -347,7 +381,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -407,6 +441,17 @@
           "time_info": "[00时26分 ~ 08时03分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
           "url": "https://flash.jin10.com/detail/20260709234930221800",
           "source": "金十数据",
@@ -454,6 +499,17 @@
           "time_info": "[06时20分 ~ 08时03分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
           "url": "https://flash.jin10.com/detail/20260710042151909800",
           "source": "金十数据",
@@ -485,6 +541,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国佛罗里达州棕榈滩机场更名为特朗普机场",
+          "url": "https://wallstreetcn.com/livenews/3131752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
+          "url": "https://news.ifeng.com/c/8uda049HcXP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美国总统特朗普周四与以色列总理通话。（Axios）",
@@ -537,7 +615,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -556,7 +634,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -569,6 +647,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时50分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -594,17 +684,6 @@
           "time_info": "[00时26分 ~ 08时03分]"
         },
         {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -615,6 +694,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 04时45分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
@@ -636,8 +726,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时50分]"
         },
         {
           "title": "美股收盘：纳指涨超1% 存储光通信领涨",
@@ -720,8 +810,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
           "url": "https://flash.jin10.com/detail/20260710070918440800",
@@ -729,7 +830,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -740,7 +841,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -751,7 +852,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
